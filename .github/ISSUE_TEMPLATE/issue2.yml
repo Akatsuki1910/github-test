@@ -1,0 +1,9 @@
+name: エンジニア用 - バグ報告
+description: bug report
+labels: ["bug"]
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        - #xxxx
