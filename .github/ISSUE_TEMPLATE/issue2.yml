@@ -1,7 +1,7 @@
 name: エンジニア用 - バグ報告
 description: bug report
+title: "[]"
 labels: ["bug"]
-
 body:
   - type: markdown
     attributes:
