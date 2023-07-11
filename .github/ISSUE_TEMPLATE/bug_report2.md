@@ -1,6 +1,6 @@
 ---
-name: エンジニア用 - issuteテンプレ
-about: ''
+name: エンジニア用 - issueテンプレ
+about: エンジニア用
 title: ''
 labels: 'bug'
 assignees: 'Akatsuki1910'
